@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color:rosybrown
+    
+}
+nav a{
+    color:#fff;
+    background-color: saddlebrown;
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+}
+nav a.contact{
+    float: right;
+}
+nav a:hover{
+    background-color:grey;
+}
+h1{
+    text-align: center;
+    margin-top: 10px;
+}
